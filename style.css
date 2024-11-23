@@ -1,0 +1,51 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+ 
+ 
+ 
+ 
+  .container {
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+ 
+ 
+  }
+ 
+  .border {
+    border: 5px solid red;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+    background-color: #92e2c7;
+  }
+ 
+ 
+  #joke {
+    border: 2px solid red;
+    font-size: 30px;
+    background-color: #e4d586;
+    height: 200px;
+    margin-top: 20px;
+    padding: 20px;
+  }
+ 
+  .down {
+    margin-top: 20px;
+  }
+ 
+  h1 {
+    font-size: 3.5em;
+  }
+ 
+  #tab {
+    margin-bottom: 15px;
+    color: red;
+    background-color: #e4d586;
+    font-size: 2em;
+    font-weight: bold;
+  }
